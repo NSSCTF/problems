@@ -1,0 +1,13 @@
+{
+    "title": "[NSSCTF 2021]test",
+    "description": "这是一道例题",
+    "tag": ["SQL注入", "反序列化"],
+    "hint": "没有hint",
+    "annex": "./annex.zip",
+    "redirect_type": 0,
+    "redirect_port": 80,
+    "docker": "xenny/test",
+    "flag_type": 0,
+    "static_flag": "NSSCTF{test_flag}",
+    "type": "web"
+}
